@@ -3,7 +3,7 @@ baseURL = ""
 title = "BeYoung 😇✌🏻"
 
 [params.color]
-  title = #393cd6
+  title = "#393cd6"
 
 ## Profile Configurations
 [params.profile]

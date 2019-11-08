@@ -15,7 +15,8 @@ title = "BeYoung 😇✌🏻"
 
   Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
   """
-
+[params.contacts]
+  email = "bensonyeung013@gmail.com"
 ## Footer Configurations
 [params.footer]
   copyright = "© 2019 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."

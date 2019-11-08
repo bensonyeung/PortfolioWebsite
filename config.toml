@@ -2,6 +2,8 @@ theme = "awesome-identity"
 baseURL = ""
 title = "BeYoung 😇✌🏻"
 
+[params.color]
+  title = rgb(87, 96, 255)
 
 ## Profile Configurations
 [params.profile]

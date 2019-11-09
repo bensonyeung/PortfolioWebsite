@@ -21,12 +21,4 @@ title = "BeYoung 😇✌🏻"
   copyright = "© 2019 Benson Yeung. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
   poweredBy = true
 
-[[params.actions]]
-  name = "Review My CV"
-  url = "https://down.pwntastic.kr/public/cv.pdf"
-[[params.actions]]
-  name = "Ask Me Anything"
-  url = "https://github.com/posquit0/ama"
-[[params.actions]]
-  name = "Buy Me a Coffee"
-  url = "https://buymeacoff.ee/posquit0"
+
